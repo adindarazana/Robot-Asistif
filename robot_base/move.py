@@ -1,5 +1,4 @@
 # Robot Base Move Program
-# By Ardhika Maulidani
 # Package for controlling robot using Joystick 
 
 import math
