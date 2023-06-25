@@ -1,5 +1,4 @@
 # Aruco Detection Python Class
-# By Ardhika Maulidani
 
 import cv2
 from camera import camera
